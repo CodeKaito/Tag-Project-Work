@@ -35,3 +35,5 @@ processo.
 - Template Terraform o altra soluzione di IaC individuata dal team di lavoro dell’architettura
 - Codice sorgente degli script scritti per simulare un impianto
 - Screenshot del report di billing del progetto (costi di infrastruttura reali) e confronto con il calcolo teorico mappando eventuali azioni di miglioramento
+
+
